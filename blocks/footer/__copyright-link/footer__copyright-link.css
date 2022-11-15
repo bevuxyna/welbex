@@ -1,0 +1,14 @@
+.footer__copyright-link {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: #E4E5EA;
+    transition: .5s opacity;
+}
+
+.footer__copyright_link:hover {
+    cursor: pointer;
+    opacity: 0.6;
+}
