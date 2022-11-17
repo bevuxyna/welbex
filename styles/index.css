@@ -23,13 +23,16 @@
 @import url(../blocks/background/__purple-ball/background__purple-ball.css);
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__about/footer__about.css);
 @import url(../blocks/footer/__address/footer__address.css);
 @import url(../blocks/footer/__contacts/footer__contacts.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__copyright-text/footer__copyright-text.css);
 @import url(../blocks/footer/__copyright-link/footer__copyright-link.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__header/footer__header.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__links/__links_menu/footer__links_menu.css);
 @import url(../blocks/footer/__number/footer__number.css);
 

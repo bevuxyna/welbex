@@ -1,0 +1,5 @@
+.footer__links_menu {
+    display: grid;
+    grid-template-columns: 144px 212px;
+    column-gap: 52px;
+}
