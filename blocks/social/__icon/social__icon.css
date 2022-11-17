@@ -1,8 +1,8 @@
-.footer__social-icon {
+.social__icon {
     transition: .5s opacity;
 }
 
-.footer__social-icon:hover {
+.social__icon:hover {
     cursor: pointer;
     opacity: 0.6;
 }
