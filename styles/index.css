@@ -21,6 +21,10 @@
 
 @import url(../blocks/background/background.css);
 @import url(../blocks/background/__purple-ball/background__purple-ball.css);
+@import url(../blocks/background/__top-ball/background__top-ball.css);
+@import url(../blocks/background/__red-ball/background__red-ball.css);
+@import url(../blocks/background/__left-ball/background__left-ball.css);
+@import url(../blocks/background/__bottom-ball/background__bottom-ball.css);
 
 @import url(../blocks/main-info/main-info.css);
 @import url(../blocks/main-info/__title/main-info__title.css);
