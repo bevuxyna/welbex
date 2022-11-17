@@ -1,0 +1,6 @@
+.main-info {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1141px;
+    margin: 94px 150px 124px;
+}

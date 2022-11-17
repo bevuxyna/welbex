@@ -22,6 +22,19 @@
 @import url(../blocks/background/background.css);
 @import url(../blocks/background/__purple-ball/background__purple-ball.css);
 
+@import url(../blocks/main-info/main-info.css);
+@import url(../blocks/main-info/__title/main-info__title.css);
+@import url(../blocks/main-info/__subtitle/main-info__subtitle.css);
+@import url(../blocks/main-info/__text/main-info__text.css);
+@import url(../blocks/main-info/__description/main-info__description.css);
+@import url(../blocks/main-info/__description-text/main-info__description-text.css);
+@import url(../blocks/main-info/__description-span/main-info__description-span.css);
+@import url(../blocks/main-info/__about/main-info__about.css);
+@import url(../blocks/main-info/__about-item/main-info__about-item.css);
+@import url(../blocks/main-info/__about-title/main-info__about-title.css);
+@import url(../blocks/main-info/__about-subtitle/main-info__about-subtitle.css);
+@import url(../blocks/main-info/__button/main-info__button.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__about/footer__about.css);
 @import url(../blocks/footer/__address/footer__address.css);

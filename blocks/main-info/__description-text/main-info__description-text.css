@@ -1,0 +1,10 @@
+.main-info__description-text {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #E4E5EA;
+    max-width: 291px;
+    margin: 14px 0 0;
+    align-self: flex-end;
+}

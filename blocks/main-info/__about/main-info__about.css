@@ -1,0 +1,7 @@
+.main-info__about {
+    display: grid;
+    grid-template-columns: 135px 135px;
+    column-gap: 31px;
+    row-gap: 30px;
+    margin-top: 40px;
+}
